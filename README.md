@@ -1,2 +1,2 @@
-# Azamat-Makulbay
+# Azamat Makulbay
 OOP project 
