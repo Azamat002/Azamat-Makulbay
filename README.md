@@ -1,5 +1,5 @@
-# Azamat Makulbay
-OOP project 
+# Azamat Makulbay - console project
+
 
 This project was made for customers of an online software store.
 The client must be added to the database in order to test this project. After the client is added to the database, the compiler displays
